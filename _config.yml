@@ -2,7 +2,7 @@
 title: F.Z. Dou
 SEOTitle: DDDD的博客 | F.Z. Dou Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: doufangzheng@126.com
 description: "Every failure is leading towards success."
 keyword: "F.Z.Dou Blog, DDDD的博客, doufangzheng, 窦方正"
 url: "http://doudouwenhui.github.io"          # your host, for absolute URL
@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 Disqus（https://disqus.com/）
-disqus_username: doudouwenhui
+disqus_username: doufangzheng
 
 # Gitalk
 gitalk:
